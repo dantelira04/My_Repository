@@ -1,3 +1,3 @@
 # My_Repository
 
-Hello ma frend, ligmabals
+This is my repository.
